@@ -1,5 +1,5 @@
 #Set working directory
-setwd("C:/Users/iperlino/Documents/R/week3assignment/ExData_Plotting1")
+
 
 #Reading, naming and subsetting power consumption data
 dataFile <- "./household_power_consumption.txt"
